@@ -25,3 +25,6 @@
    ```bash
    git clone https://github.com/RimElabrouki/Art4UCAD.git
    cd Art4UCAD
+2. Abre el proyecto en NetBeans.
+
+3. Construye y ejecuta el proyecto desde NetBeans.
